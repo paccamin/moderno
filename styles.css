@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #333;
+}
+
+#time {
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+#date {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+#location {
+    font-size: 18px;
+    margin-top: 10px;
+}
